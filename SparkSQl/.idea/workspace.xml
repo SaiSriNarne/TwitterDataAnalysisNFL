@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6d20d2-3f19-4753-a814-c1ff1ccc5a25" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SparkSQl" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="197381413">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="_SUCCESS" value="4" />
+          <entry key="csv" value="2" />
+          <entry key="example" value="2" />
+          <entry key="java" value="3" />
+          <entry key="json" value="5" />
+          <entry key="part-00000" value="11" />
+          <entry key="part-00001" value="10" />
+          <entry key="part-00002" value="9" />
+          <entry key="part-00003" value="4" />
+          <entry key="part-00004" value="2" />
+          <entry key="part-00005" value="2" />
+          <entry key="part-00006" value="2" />
+          <entry key="part-00007" value="1" />
+          <entry key="part-00010" value="1" />
+          <entry key="part-00011" value="2" />
+          <entry key="part-00017" value="1" />
+          <entry key="part-00021" value="1" />
+          <entry key="part-00028" value="1" />
+          <entry key="part-00041" value="1" />
+          <entry key="part-00067" value="1" />
+          <entry key="part-00070" value="1" />
+          <entry key="part-00071" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="sbt" value="4" />
+          <entry key="scala" value="15" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="JSON" value="5" />
+          <entry key="PLAIN_TEXT" value="61" />
+          <entry key="Properties" value="1" />
+          <entry key="Scala" value="15" />
+          <entry key="sbt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="example" value="60" />
+          <entry key="json" value="309" />
+          <entry key="part-00002" value="27" />
+          <entry key="sbt" value="38" />
+          <entry key="scala" value="3416" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="309" />
+          <entry key="PLAIN_TEXT" value="87" />
+          <entry key="Scala" value="3416" />
+          <entry key="sbt" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="119245286">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="75" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/tweetQuery.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/tweets.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="120" selection-start-column="105" selection-end-column="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweets-1543963370000.json/part-00071">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweets-1543963370000.json/part-00070">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweets-1543963370000.json/part-00067">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweets-1543963355000.json/part-00000">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweets-1543963355000.json/part-00002">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>auth</find>
+      <find>location</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/checkDFSchema.scala" />
+        <option value="$PROJECT_DIR$/data/example" />
+        <option value="$PROJECT_DIR$/src/main/scala/mytrywithsparl.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/tablecreation.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/TwitterData.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Analyze.scala" />
+        <option value="$PROJECT_DIR$/tweets-1542660736000.json/part-00002" />
+        <option value="$USER_HOME$/Downloads/query.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/query.scala" />
+        <option value="$PROJECT_DIR$/data/tweets.json" />
+        <option value="$PROJECT_DIR$/src/main/scala/nn.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/twitterstreaming.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sub.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/tweetquery.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/tweetQuery.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1926" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SparkSQl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkSQl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkSQl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkSQl" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkSQl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkSQl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkSQl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkSQl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkSQl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkSQl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554845205420" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SparkSQl\output\tweetfilter-1542642816000.json" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.tweetQuery">
+    <configuration name="query (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="query" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="query" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sub" />
+      <module name="SparkSQl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sub" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sub" />
+      <module name="SparkSQl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tweetQuery" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tweetQuery" />
+      <module name="SparkSQl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twitterstreaming" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqlknowledgebank.spark.sparkstreaming.twitterstreaming" />
+      <module name="SparkSQl" />
+      <option name="PROGRAM_PARAMETERS" value="SNE5jJmuxsrss3K5CqVoRzNjQ 8vlmOWYM6iM7Q6VQZffizvcCq34EQPUKeOvijsq7pXwCMjPjEn 1039581020352389123-GZQrhexfH9BITWz3SLMvuGT8i4wbd6 pIPjqiQUlbNFbMj2gKi3NYfXn08ZiEjhsmSt0LOG1LuoD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqlknowledgebank.spark.sparkstreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.sub" />
+      <item itemvalue="Application.query" />
+      <item itemvalue="Application.query (1)" />
+      <item itemvalue="Application.twitterstreaming" />
+      <item itemvalue="Application.tweetQuery" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tweetQuery" />
+        <item itemvalue="Application.sub" />
+        <item itemvalue="Application.twitterstreaming" />
+        <item itemvalue="Application.query (1)" />
+        <item itemvalue="Application.query" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkSQl" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sparksql [file:/C:/SparkSQl/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sparksql-build [file:/C:/SparkSQl/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3109688188975" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1856490841" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2428047534" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6d20d2-3f19-4753-a814-c1ff1ccc5a25" name="Default Changelist" comment="" />
+      <created>1539714445114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539714445114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22591093" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32149202" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3265306" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="sbt" order="7" weight="0.3295082" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22591093" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32149202" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3265306" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="sbt" order="7" weight="0.3295082" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643660000.json/part-00001" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643656000.json/part-00002" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643736000.json/part-00003" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643736000.json/part-00000" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643736000.json/part-00001" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643828000.json/_SUCCESS" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643844000.json/part-00041" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643824000.json/_SUCCESS" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643836000.json/part-00003" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643836000.json/part-00002" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643836000.json/part-00001" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542643964000.json/part-00021" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644064000.json/part-00003" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644064000.json/part-00002" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644064000.json/part-00005" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644064000.json/part-00011" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644068000.json/part-00000" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644068000.json/part-00001" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644068000.json/part-00017" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644056000.json/part-00011" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644444000.json/part-00006" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644436000.json/part-00006" />
+    <entry file="file://$PROJECT_DIR$/output/tweetfilter-1542644436000.json/part-00007" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Analyze.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TwitterData.scala" />
+    <entry file="file://$PROJECT_DIR$/tweets-1542660736000.json/part-00000" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/query.scala" />
+    <entry file="file://$USER_HOME$/Downloads/Project1Cs5540/sample1.java" />
+    <entry file="file://C:/kdm/SparkOpenIE_WordNET_LDA/src/main/scala/openie/CoreNLP.java" />
+    <entry file="file://$PROJECT_DIR$/output/results.csv/part-00000-5ba8f392-1124-4531-96e8-67fef65445e8-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/tweets-1542660736000.json/part-00001" />
+    <entry file="file://$PROJECT_DIR$/tweets-1542660736000.json/part-00003" />
+    <entry file="file://$PROJECT_DIR$/tweets-1542660736000.json/part-00005" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/new.obj.txt" />
+    <entry file="file://$PROJECT_DIR$/tweets-1542660736000.json/part-00002" />
+    <entry file="file://$PROJECT_DIR$/tweets-1542660736000.json/part-00004" />
+    <entry file="file://$PROJECT_DIR$/tweets-1542660732000.json/part-00001" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/twitterstreaming.scala" />
+    <entry file="file://$PROJECT_DIR$/output/query1/part-00000-37db6232-2079-4b7e-bbbb-f50366c83d23-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/output/query89.xlsx/_SUCCESS" />
+    <entry file="file://$USER_HOME$/Downloads/query.scala" />
+    <entry file="file://$USER_HOME$/Downloads/query(1).scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sub.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tweets.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="120" selection-start-column="105" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweets-1543963370000.json/part-00071">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweets-1543963370000.json/part-00070">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweets-1543963370000.json/part-00067">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweets-1543963355000.json/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweets-1543963355000.json/part-00002">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/tweetQuery.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SparkSQl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
