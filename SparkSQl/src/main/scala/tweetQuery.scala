@@ -13,7 +13,7 @@ object tweetQuery
 
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
 
-
+    val sc = new SparkContext(sparkConf)
     val sc = new SparkContext(sparkConf)
     val sqlContext = new org.apache.spark.sql.SQLContext(sc)
     val spark = SparkSession.builder().appName("Spark SQL basic example").config("spark.master.config.option", "local[*]").getOrCreate()
